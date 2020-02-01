@@ -11,7 +11,63 @@ body {
 	font-size: 2.5rem;
 }
 
+
 .card-img-top{
 	padding: 25px 50px;
+	min-height: 210px;
 }
 
+.card-img-top-mobile{
+	padding: 25px 50px;
+	min-height: 390px;
+}
+.teamh {
+	margin-top: 30px !important;
+}
+
+.contacth {
+	margin-top: 50px !important;
+}
+.navbar {
+	min-height: 80px;
+	margin-bottom: 40px !important;
+}
+.contimg {
+	padding-top: 50px !important;
+}
+
+.boxcard {
+	min-height: 300px;
+}
+
+.ttl {
+	margin: 0 auto !important;
+	text-align: center;
+	margin-top: 40px !important;
+	/* margin-bottom: 50px !important; */
+}
+
+.tm {
+	margin-top: 50px !important;
+	/* background-color: chartreuse; */
+}
+.timg {
+	/* max-height: 50px !important; */
+	max-height: 50px;
+	border-radius: 50% !important;
+}
+
+.mtimg {
+	height: 390px !important;
+	/* background-color: brown; */
+}
+
+.primary {
+	margin: 0 auto;
+	margin-top: 5px;
+	background-color: #587177;
+	width: 180px;;
+	height: 3px;
+	margin-top: 10px;
+	margin-bottom: 30px;
+}
